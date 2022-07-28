@@ -11,7 +11,11 @@ Now that the application code is working, we're ready to package it as a contain
 
 image::dev_view.png[alt text]
 
-* Make sure you are in the right project that was assigned to you:
+* If you are using the developer sandbox, you will already be inside a project named *username*-dev
+
+image::sandbox_project.png[alt text]
+
+* Otherwise, make sure you are in the right project that was assigned to you:
 
 image::select_project.png[alt text]
 
