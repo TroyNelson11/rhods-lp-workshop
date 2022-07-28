@@ -5,7 +5,7 @@ xref:index.adoc[Back to the introduction]
 
 = Step 1: Starting a Jupyter environment
 
-From the landing site *console-openshift* click on the App Menu Icon in the top right and select *Red Hat OpenShift Data Science*
+From the site *console-openshift* click on the App Menu Icon in the top right and select *Red Hat OpenShift Data Science*
 
 image::appIcon.png[alt text]
 
